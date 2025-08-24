@@ -1,19 +1,13 @@
 <div align="center">
+  <h1 align="center">Hello World! 👋</h1>
   <img height="160" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif" />
 </div>
-
-###
-
-<h1 align="center">Hello World! 👋</h1>
 
 ###
 
 <div align="center">
   <a href="https://www.linkedin.com/in/aryan-sharma-8a3198315/">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://youtube.com/">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo" />
   </a>
   <a href="https://instagram.com/">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo" />
@@ -30,8 +24,6 @@
 
 <h3 align="left">👩‍💻 About Me</h3>
 
-###
-
 <p align="left">
 I'm a CSE (AI/ML) undergrad (Junior) from India <br><br>
 - 👀 I’m interested in Problem Solving, Designing and Editing <br>
@@ -45,8 +37,6 @@ I'm a CSE (AI/ML) undergrad (Junior) from India <br><br>
 ###
 
 <h3 align="left">🛠 Languages and Tools</h3>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
@@ -68,9 +58,15 @@ I'm a CSE (AI/ML) undergrad (Junior) from India <br><br>
 
 ###
 
-<h3 align="left">🔥 My Stats :</h3>
+<h3 align="left">💡 LeetCode Stats :</h3>
+
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/SharmaAryan5?theme=dark&font=Baloo%202&ext=heatmap" height="250" alt="leetcode stats"/>
+</div>
 
 ###
+
+<h3 align="left">🔥 My Stats :</h3>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=RN005&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
